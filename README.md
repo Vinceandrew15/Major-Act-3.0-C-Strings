@@ -1,1 +1,0 @@
-# Major-Act-3.0-C-Strings
